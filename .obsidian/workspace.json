@@ -230,9 +230,23 @@
               "icon": "lucide-file",
               "title": "Level 15"
             }
+          },
+          {
+            "id": "0c728bc9cca54cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -304,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 15.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +328,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Level 15"
+              "title": "Backlinks for test"
             }
           },
           {
@@ -323,12 +337,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 15.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Level 15"
+              "title": "Outgoing links from test"
             }
           },
           {
@@ -350,10 +364,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 15.md"
+                "file": "test.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Level 15"
+              "title": "Outline of test"
             }
           }
         ]
@@ -373,11 +387,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c3ee97cf336f358",
+  "active": "0c728bc9cca54cfb",
   "lastOpenFiles": [
+    "Pasted image 20250118163626.png",
+    "Level 15.md",
+    "test.md",
+    "Level 2.md",
+    "Level 3.md",
     "Pasted image 20250117143343.png",
     "Level 14.md",
-    "Level 15.md",
     "Pasted image 20250117142017.png",
     "Level 13.md",
     "Pasted image 20250117141722.png",
@@ -398,13 +416,10 @@
     "Pasted image 20250117134255.png",
     "Pasted image 20250117133701.png",
     "Level 8.md",
-    "Pasted image 20250117133542.png",
     "Level 7.md",
     "Level 6.md",
     "Level 5.md",
     "Level 4.md",
-    "Level 3.md",
-    "Level 2.md",
     "Level 1.md"
   ]
 }
