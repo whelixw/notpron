@@ -1,6 +1,6 @@
 **URL**:www.deathball.net/notpron/neo/beenthere.htm
-**Image:**![[Pasted image 20250117143343.png]]
-**Title**: been there 
+**Image:**![Pasted image 20250117143343.png](Pasted%20image%2020250117143343.png)
+**Title**: been there
 **Source Code Hints:** what is the language of the password hint?
 
 Password Hint: quoi?
