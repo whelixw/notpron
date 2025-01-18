@@ -1,0 +1,410 @@
+{
+  "main": {
+    "id": "78d17cde64b5b17c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d52b668de73b1583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "801e98f99c272b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 1"
+            }
+          },
+          {
+            "id": "35c288819e392963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 1"
+            }
+          },
+          {
+            "id": "481635b10723c67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 2"
+            }
+          },
+          {
+            "id": "f079434267faca03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 3"
+            }
+          },
+          {
+            "id": "04443e423f024f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 4"
+            }
+          },
+          {
+            "id": "65a8f083165175f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 5"
+            }
+          },
+          {
+            "id": "4ab69e549ca09824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 6"
+            }
+          },
+          {
+            "id": "2238ce77be2d89b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 7"
+            }
+          },
+          {
+            "id": "711fd77622bab59e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 8"
+            }
+          },
+          {
+            "id": "f82e5a956f6f4e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 9"
+            }
+          },
+          {
+            "id": "cd93efe21cf257d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 10"
+            }
+          },
+          {
+            "id": "5aea703868c4d517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 9"
+            }
+          },
+          {
+            "id": "916dc13fd4e926c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 11"
+            }
+          },
+          {
+            "id": "45b9695f53b34f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 13"
+            }
+          },
+          {
+            "id": "dd7e62457c1a506e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 14"
+            }
+          },
+          {
+            "id": "0c3ee97cf336f358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level 15"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1e693236a021b4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9ee0a90daf0295e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70689837e22c4020",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c37340dfff8cc457",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "132a65b0bb127e54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb87d2be6f342fa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d5bf5ae81e7eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b57a110922f8c7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Level 15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Level 15"
+            }
+          },
+          {
+            "id": "9216692da87b54d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Level 15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Level 15"
+            }
+          },
+          {
+            "id": "18c73bf579321583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2572611535309a6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Level 15.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Level 15"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c3ee97cf336f358",
+  "lastOpenFiles": [
+    "Pasted image 20250117143343.png",
+    "Level 14.md",
+    "Level 15.md",
+    "Pasted image 20250117142017.png",
+    "Level 13.md",
+    "Pasted image 20250117141722.png",
+    "Pasted image 20250117141510.png",
+    "Pasted image 20250117141404.png",
+    "Pasted image 20250117141317.png",
+    "Level 11.md",
+    "Pasted image 20250117141129.png",
+    "Level 10.md",
+    "Templates/Level.md",
+    "Pasted image 20250117140535.png",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Templates",
+    "Level 9.md",
+    "Level.md",
+    "New folder",
+    "Pasted image 20250117134255.png",
+    "Pasted image 20250117133701.png",
+    "Level 8.md",
+    "Pasted image 20250117133542.png",
+    "Level 7.md",
+    "Level 6.md",
+    "Level 5.md",
+    "Level 4.md",
+    "Level 3.md",
+    "Level 2.md",
+    "Level 1.md"
+  ]
+}
