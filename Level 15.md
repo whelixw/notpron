@@ -1,9 +1,13 @@
-**URL**:www.deathball.net/notpron/neo/beenthere.htm
-**Image:**![Pasted image 20250117143343.png](Pasted%20image%2020250117143343.png)
-**Title**: been there
-**Source Code Hints:** what is the language of the password hint?
+**URL**:https://www.deathball.net/notpron/rusty/board.htm
+**Image:![](Pasted%20image%2020250209142944.png)**
+**Title**:hit the keys
+**Source Code Hints:**
 
-Password Hint: quoi?
-Language is french, the image and hint refers to something we've seen before.
-U: deja
-P: vu
+<!-- [1] 4 [2] 1 [3] 6 [2] 3 [1] 9 [3] 7|
+	||[2] 1 [3] 3 3 [1] 3 [2] 2 2-->
+
+<!--this message is ONLY for french people (and maybe belgium): votre clavier est erroné (sorry, just babelfish, I have no clue if it's good, but you can translate it back-->
+
+**Notes:** The french refers to keyboard layouts, the first hint clearly is referring to key indices somehow. The brackets indicate the rows and the others indicate cols.
+U:random
+P:access
